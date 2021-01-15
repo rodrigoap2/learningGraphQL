@@ -35,7 +35,7 @@ const CreateLink = () => {
           e.preventDefault();
           createLink();
         }}
-      >
+      > 
         <div className="flex flex-column mt3">
           <input
             className="mb2"
